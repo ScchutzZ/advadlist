@@ -5,3 +5,4 @@
 # Number of entries: 
 
 ##stream-display-ad__wrapper
+##ytd-ad-slot-renderer
