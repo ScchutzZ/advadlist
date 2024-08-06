@@ -1,3 +1,9 @@
+# Title: ADV Blocklist
+# Description: Cleans the Internet! Blocks Ads.
+# Homepage: https://github.com/ScchutzZ/advadlist
+# Issues: https://github.com/ScchutzZ/advadlist/issues
+# Number of entries: 
+
 ||burosvancdn.xyz^
 ||vesfgtyuhbe.shop^
 ||fungel235.shop^
