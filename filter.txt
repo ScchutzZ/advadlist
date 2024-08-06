@@ -4,25 +4,25 @@
 # Issues: https://github.com/ScchutzZ/advadlist/issues
 # Number of entries: 
 
-||burosvancdn.xyz^
-||vesfgtyuhbe.shop^
-||fungel235.shop^
-||mukhiytaaoq.shop^
-||skoguamka.shop^
-||sudikonaqr.shop^
-||zidguoka.shop^
-||kordisa21sf.shop^
-||asurokalix.shop^
-||varfegunma.shop^
-||memriosa.cloud^
-||bigolaaowq.buzz^
-||dartqola.buzz^
-||nigolaegea.buzz^
-||dm9segfeoa.shop^
-||nudkazi.shop^
-||dm9segfeoa.shop^
-||bushg781a.shop^
-||ceallip2.shop^
-||writsivent.shop^
-||hevephiny.shop^
-||dovideoplayer.xyz^
+||burosvancdn.xyz^$important
+||vesfgtyuhbe.shop^$important
+||fungel235.shop^$important
+||mukhiytaaoq.shop^$important
+||skoguamka.shop^$important
+||sudikonaqr.shop^$important
+||zidguoka.shop^$important
+||kordisa21sf.shop^$important
+||asurokalix.shop^$important
+||varfegunma.shop^$important
+||memriosa.cloud^$important
+||bigolaaowq.buzz^$important
+||dartqola.buzz^$important
+||nigolaegea.buzz^$important
+||dm9segfeoa.shop^$important
+||nudkazi.shop^$important
+||dm9segfeoa.shop^$important
+||bushg781a.shop^$important
+||ceallip2.shop^$important
+||writsivent.shop^$important
+||hevephiny.shop^$important
+||dovideoplayer.xyz^$important
