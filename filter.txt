@@ -5,6 +5,7 @@
 # Number of entries: 
 
 ||burosvancdn.xyz^$important
+@@||burosvancdn.xyz^$important
 ||vesfgtyuhbe.shop^$important
 ||fungel235.shop^$important
 ||mukhiytaaoq.shop^$important
